@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = DimpleRails::VERSION
   s.authors     = ["Zach Weed"]
   s.email       = ["zweed@covermymeds.com"]
-  s.homepage    = "github.com/zachweed/dimple_rails"
+  s.homepage    = "http://github.com/zachweed/dimple_rails"
   s.summary     = "Easily include Dimple.js and D3.js assets in the Rails assets pipeline."
   s.description = "Easily include Dimple.js and D3.js assets in the Rails assets pipeline."
   s.license     = "MIT"
